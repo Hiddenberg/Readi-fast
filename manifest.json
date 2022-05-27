@@ -1,6 +1,6 @@
 {
-   "name": "Fast-readify",
-   "description": "Extension created to help read faster and improve focus and readability",
+   "name": "Readi-fast",
+   "description": "Extension created to help users read faster, improve focus and readability",
    "version": "1.0",
    "manifest_version": 3,
    "icons": {
@@ -18,7 +18,7 @@
       "scripting"
     ],
     "action": {
-      "default_title": "Fast-readify",
+      "default_title": "Readi-fast",
       "default_icon": {
         "16": "./icons/16.png",
         "24": "./icons/24.png",
